@@ -1,5 +1,4 @@
 language: java
-dist: bionic
 notifications:
   irc:
     channels:
