@@ -11,19 +11,19 @@ matrix:
   include:
   - os: osx
   - os: linux
-    jdk: oraclejdk10
+    jdk: oraclejdk8
   - os: linux
-    jdk: openjdk11
+    jdk: openjdk9
   - os: linux
-    jdk: openjdk12
+    jdk: openjdk10
   - os: linux
-    jdk: oraclejdk10
+    jdk: oraclejdk8
     arch: ppc64le
   - os: linux
-    jdk: openjdk11
+    jdk: openjdk9
     arch: ppc64le
   - os: linux
-    jdk: openjdk12
+    jdk: openjdk10
     arch: ppc64le
 
 sudo: false
