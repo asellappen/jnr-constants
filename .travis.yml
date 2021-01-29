@@ -29,13 +29,10 @@ matrix:
   - os: linux
     jdk: openjdk10
   - os: linux
-    jdk: oraclejdk8
+    jdk: oraclejdk11
     arch: ppc64le
   - os: linux
-    jdk: openjdk9
-    arch: ppc64le
-  - os: linux
-    jdk: openjdk10
+    jdk: openjdk11
     arch: ppc64le
 
 sudo: false
