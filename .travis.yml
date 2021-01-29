@@ -27,7 +27,7 @@ matrix:
   - os: linux
     jdk: openjdk9
   - os: linux
-    jdk: openjdk10
+    jdk: openjdk11
   - os: linux
     jdk: oraclejdk11
     arch: ppc64le
